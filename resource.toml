@@ -1,0 +1,5 @@
+type = 'csharp'
+client-type = 'jsb'
+main = 'server/bin/froamMenu.dll'
+client-main = 'client/startup.js'
+client-files = [ 'client/*' ]
